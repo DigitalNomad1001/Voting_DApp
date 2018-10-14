@@ -1,4 +1,4 @@
-# :love_letter:Voting DApp:love_letter:
+# :love_letter:_Voting DApp_:love_letter:
 
 
 
@@ -9,7 +9,7 @@
 
 This repository includes the Smart Contract for a simple ballot.
 
-Ethereum Compatable.
+Ethereum Compatible.
 
 
 
