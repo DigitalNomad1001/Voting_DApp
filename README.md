@@ -13,8 +13,11 @@ This repository includes the Smart Contract for a simple ballot. It is a decentr
 #### Download
 
 npm
+
 solc
+
 Ganache
+
 web3js
 
 
