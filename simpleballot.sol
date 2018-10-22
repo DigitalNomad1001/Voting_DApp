@@ -17,7 +17,7 @@ contract SimpleBallot {
     function SimpleBallot() public payable {
         ballotName = 'Favorite Blockchain Speaker';
 
-        variants.push(''); // for starting variants from 1 (non-programmers oriented)
+        variants.push(''); // for starting variants from 1
 
         
                 variants.push('Miko Matsumura');variantIds[sha256('Miko Matsumura')] = 1;
