@@ -24,7 +24,7 @@ contract SimpleBallot {
             
                 variants.push('Vitalik Buterin');variantIds[sha256('Vitalik Buterin')] = 2;
             
-                variants.push('Zane Witherspoon');variantIds[sha256('Zane Witherspoon')] = 3;
+                variants.push('Zane Witherspoon');variantIds[sha256('Anne Connelly')] = 3;
             
                 variants.push('Lindsay Maule');variantIds[sha256('Lindsay Maule')] = 4;
             
